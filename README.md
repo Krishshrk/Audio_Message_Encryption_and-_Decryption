@@ -1,4 +1,4 @@
-# Audio_Message_Encryption_and_Decryption
+# Secure Audio Communication System
 
 ## Pakages to install:
 1. Streamlit
